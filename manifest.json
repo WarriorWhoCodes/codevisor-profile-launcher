@@ -4,10 +4,10 @@
     "manifest_version": 2,
     "description": "All Social Media of CodeVisors",
     "icons": {
-        "128": "icon_128.png"
+        "128": "icon_128_new.png"
     },
     "browser_action": {
-        "default_icon": "icon_128.png",
+        "default_icon": "icon_128_new.png",
         "default_popup": "popup.html"
     },
     "permissions": [
