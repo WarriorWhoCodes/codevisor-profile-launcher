@@ -26,4 +26,4 @@ Or click on __Clone or Download__ button and choose __Download ZIP__
 
 Your extension is ready to work! Enjoy:thumbsup:
 
-![Pic 1](https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension/blob/master/Readme_Images/pic01.png)
+![Screenshot from 2021-10-02 11-20-36](https://user-images.githubusercontent.com/55637484/135705291-a9fcbc2b-2487-4955-a076-616a8d86ac30.png)
