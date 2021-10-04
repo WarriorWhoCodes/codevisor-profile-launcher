@@ -1,6 +1,12 @@
 # CodeVisor Profile Launcher - Chrome extension
 Simple Chrome Extension for a quick launcher to your all social media profiles at one click.
 
+## Project Maintainers👨🏫:
+
+| <img src = "https://user-images.githubusercontent.com/55637484/135868279-accc32c2-b723-4764-b8ea-69d158484354.jpeg" width = 200 height = 200> | <img src = "https://user-images.githubusercontent.com/55637484/135871362-b5baa3b5-b53e-4f08-8017-fa23bf6edc6b.jpg" width = 170 height = 200> |
+| :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+|                    [Chirag Taneja](https://github.com/chiragtaneja04)\*                    |                        [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)   
+
 ## Demo :purple_heart:
 
 ![Screenshot from 2021-10-02 11-20-36](https://user-images.githubusercontent.com/55637484/135705291-a9fcbc2b-2487-4955-a076-616a8d86ac30.png)
