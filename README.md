@@ -7,14 +7,22 @@ Simple Chrome Extension for a quick launcher to your all social media profiles a
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
 |                    [Chirag Taneja](https://github.com/chiragtaneja04)\*                    |                        [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)   
 
-## Downloading and Deploying the Extension :eyes:	
-Open __Command Prompt/Terminal__ and copy-paste the following command:
+## Demo :purple_heart:
+
+![Screenshot from 2021-10-02 11-20-36](https://user-images.githubusercontent.com/55637484/135705291-a9fcbc2b-2487-4955-a076-616a8d86ac30.png)
+
+## Downloading and Deploying the Extension :eyes:
+
+To download the extension, run the following command in your __Command Prompt/Terminal__:
+
 ```
 git clone https://github.com/CodeVisors/codevisor-profile-launcher.git
 ```
 
-Or click on __Clone or Download__ button and choose __Download ZIP__     
-* Unpack the ZIP folder
+Or alternatively, you can [__Download a ZIP__](https://github.com/CodeVisors/codevisor-profile-launcher/archive/refs/heads/main.zip) and then unpack the ZIP folder.
+
+Once you have the extension code:
+
 * Open __Google Chrome__
 * Click on the 3 dots at top right corner
 * Choose __More Tools__ and then __Extensions__
@@ -27,9 +35,4 @@ Or click on __Clone or Download__ button and choose __Download ZIP__
 
 ![Screenshot from 2021-10-02 11-17-58](https://user-images.githubusercontent.com/55637484/135705244-fbe26b28-5804-4c86-a0c3-31aaaaaf89e0.png)
 
-
-## Functioning of the Extension :purple_heart:
-
 Your extension is ready to work! Enjoy:thumbsup:
-
-![Screenshot from 2021-10-02 11-20-36](https://user-images.githubusercontent.com/55637484/135705291-a9fcbc2b-2487-4955-a076-616a8d86ac30.png)
