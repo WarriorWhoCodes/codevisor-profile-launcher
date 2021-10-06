@@ -1,3 +1,9 @@
+:root{
+    --bg:#FFF;
+    --accent:#30a14e;
+    --border:#dadada;
+    --text-accent:#000;
+}
 html,
 body {
     font-family: 'Ubuntu', sans-serif;
@@ -6,14 +12,24 @@ body {
     min-height: 180px;
     padding: 0;
     width: 384px;
+    background-color: var(--bg);
+    color:var(--accent);
+    height: 100vh;
+    transition: all ease-in 300ms;
 }
-
+body.dark{
+    --bg:#111;
+    --accent:#BB86FC;
+    --border:#dadada;
+    --text-accent:rgb(255, 255, 255);
+      transition: all ease-in 300ms;
+}
 h1 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 25px;
     font-weight: 400;
     margin: 0;
-    color: #30a14e;
+    color: var(--accent);
 }
 
 h1 span{
@@ -27,15 +43,16 @@ img {
 
 .modal-header {
     align-items: center;
-    border-bottom: 0.5px solid #dadada;
+    border-bottom: 0.5px solid var(--border);
 }
 
 .modal-content {
     padding: 0 30px;
+    color:var(--text-accent)
 }
 
 .modal-icons {
-    border-top: 0.5px solid #dadada;
+    border-top: 0.5px solid var(--border);
     height: 50px;
     width: 100%;
 }
@@ -69,5 +86,14 @@ img {
 .fab,
 .far {
     font-size: 35px;
-    color: #30a14e;
+    color: var(--accent);
+}
+#darkBtn{
+    position: absolute;
+    right:1rem;
+    top:1rem;
+}
+#darkBtn:hover{
+    cursor: pointer;
+    transform: scale(1.1);
 }
